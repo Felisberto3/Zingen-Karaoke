@@ -44,6 +44,8 @@ html {
       font-size: var(--fs-base);
       line-height: 1.6;
       color: var(--text-color-primary);
+      overflow-x: hidden;
+
 
       overflow-x: hidden;
       scroll-behavior: smooth;
@@ -54,8 +56,9 @@ body {
       margin: 0;
       padding: 0;
       background-color: var(--bg-color);
-      overflow-x: hidden;
 
+
+      overflow-x: hidden;
 }
 
 
